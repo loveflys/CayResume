@@ -1,0 +1,19 @@
+# Site settings
+name: 陈安一
+location: 青岛
+company: 青岛港国际物流有限公司
+position: Java开发工程师、前端开发工程师
+github: https://github.com/loveflyss
+facebook: https://www.facebook.com/
+phone: 18669704568
+email: baozi@chenanyi.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
