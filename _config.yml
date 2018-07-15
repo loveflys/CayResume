@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 18669704568
 email: baozi@chenanyi.com
 
-baseurl: "/resume.io"
+baseurl: "/resume"
 
 permalink: /:year/:month/:day/:title/
 
